@@ -9,7 +9,7 @@ tor.johnson@generalassemb.ly
 LinkedIn: https://www.linkedin.com/in/tor-johnson-5629231/
 
 Paula Bannerman
-paula.bannerman@generalassemb.ly
+pbannerman13@gmail.com
 Linkedin: https://www.linkedin.com/in/dcartist
 
 Lizz Westerband
