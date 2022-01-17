@@ -1,4 +1,4 @@
-# fwd 01-18-2022
+# FEWD 01-18-2022
 FEWD 01-18 2022 Class Work
 
 This is a repository of exercises and homework
