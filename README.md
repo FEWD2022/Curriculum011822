@@ -8,9 +8,9 @@ Tor N. Johnson
 tor.johnson@generalassemb.ly
 LinkedIn: https://www.linkedin.com/in/tor-johnson-5629231/
 
-Lauren Perez
-lauren.perez@generalassemb.ly
-Linkedin: https://www.linkedin.com/in/lauren-ashley-perez/
+Paula Bannerman
+paula.bannerman@generalassemb.ly
+Linkedin: https://www.linkedin.com/in/dcartist
 
 Lizz Westerband
 lizz.westerband@generalassemb.ly
