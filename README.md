@@ -18,8 +18,8 @@ https://calendly.com/lizz-west
 
 # Office Hours
 Please RSVP at-least 4 hours in advance via slack if you will be attending office hours that day.
-Tor:  US  Wednesday 7pm EST,  6pm CDT,  4pm PST,   AU Wednesday 9am AEST
-Paula:  US  ???? ?pm EST,  ?pm CDT,  ?pm PST,   AU Friday ?am AEST
+Tor:  US  Monday 7pm EST,  6pm CDT,  4pm PST
+Paula:  US  Wednesday 6pm EST,  5pm CDT,  3pm PST
 Lizz: Sign up for custom office hours via https://calendly.com/lizz-west
 
 
