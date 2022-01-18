@@ -9,7 +9,7 @@ tor.johnson@generalassemb.ly
 LinkedIn: https://www.linkedin.com/in/tor-johnson-5629231/
 
 Paula Bannerman
-paula.bannerman@generalassemb.ly
+pbannerman13@gmail.com
 Linkedin: https://www.linkedin.com/in/dcartist
 
 Lizz Westerband
@@ -18,9 +18,9 @@ https://calendly.com/lizz-west
 
 # Office Hours
 Please RSVP at-least 4 hours in advance via slack if you will be attending office hours that day.
-Tor:  US  Wednesday 7pm EST,  6pm CDT,  4pm PST,   AU Wednesday 9am AEST
-Paula:  US  ???? ?pm EST,  ?pm CDT,  ?pm PST,   AU Friday ?am AEST
-Lizz: Sign up for custom office hours via https://calendly.com/lizz-west
+* Tor:  US  Monday 7pm EST,  6pm CDT,  4pm PST
+* Paula:  US  Wednesday 6pm EST,  5pm CDT,  3pm PST
+* Lizz: Sign up for custom office hours via https://calendly.com/lizz-west
 
 
 # Homework
@@ -55,3 +55,30 @@ Graduation Requirements
 * Talk to us!
 
 
+
+## Course Schedule
+
+| Lesson # (Week:Day) | In Class                                                                                                                                                                                                                                                                                                                                              | Class Resources  | Homework  |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lesson 1 (w1:d1)    |  |   |   |
+| Lesson 2 (w1:d2)    |  |   |  |
+| Lesson 3 (w2:d1)    |  |   |  |
+| Lesson 4 (w2:d2)    |   |   |  |
+| Lesson 5 (w3:d1)    |   |   |  |
+| Lesson 6 (w3:d2)    |   |  |  |
+| Lesson 7 (w4:d1)    |    |   |  |
+| Lesson 8 (w4:d2)    |  |  |  |
+| Lesson 9 (w5:d1)    |  |   |  |
+| Lesson 10 (w5:d2)   |  |   |  |
+| Lesson 11 (w6:d1)    |  |   |  |
+| Lesson 12 (w6:d2)   |   |   |  |
+| Lesson 13 (w7:d1)  |    |   |  |
+| Lesson 14 (w7:d2)  |  |    |    |
+| Lesson 15 (w8:d1)  |   |  |   |
+| Lesson 16 (w8:d1)  |   |   |   |
+| Lesson 17 (w8:d2)  |  |   |  |
+| Lesson 18 (w9:d1)  |  |    |  |
+| Lesson 19 (w10:d1)  | Project Presentations |   |  |
+| Lesson 20 (w10:d2) | Project Presentations |   |  |
+| --    |  --   |  --   | -- |
+---
