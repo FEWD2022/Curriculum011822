@@ -55,7 +55,7 @@ Graduation Requirements
 * Talk to us!
 
 
-
+<a name="Schedule"></a>
 ## Course Schedule
 
 | Lesson # (Week:Day) | In Class                                                                                                                                                                                                                                                                                                                                              | Class Resources  | Homework  |
