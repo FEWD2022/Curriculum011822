@@ -60,7 +60,7 @@ Graduation Requirements
 
 | Lesson # (Week:Day) | In Class                                                                                                                                                                                                                                                                                                                                              | Class Resources  | Homework  |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Lesson 1 (w1:d1)    | Install Git/VS Code | <a hrerf="https://generalassembly.zoom.us/rec/play/5QOHJT4fVmWw_QJgyoppXuesfiayCTVRuQDvJPjWXY13HkjiLInMHfOY6NDxIzcHswmNmn4TA8rFzK89.m6i4rSHti5gXUOmb?continueMode=true" target="_blank">Class Recording</a><br />Passcode: ?906tBVE | N/A |
+| Lesson 1 (w1:d1)    | Install Git/VS Code | [Class recording](https://generalassembly.zoom.us/rec/share/4HBWG-7sjEo7TIrgZmWQ1QA79fSflmTdrcO7HslIj-jKUGrGks5tfdqSaVILBITx.m_UqORD7EHdvApU_)<br />Passcode: ?906tBVE | N/A |
 | Lesson 2 (w1:d2)    |  |   |  |
 | Lesson 3 (w2:d1)    |  |   |  |
 | Lesson 4 (w2:d2)    |   |   |  |
