@@ -61,7 +61,7 @@ Graduation Requirements
 | Lesson # (Week:Day) | In Class                                                                                                                                                                                                                                                                                                                                              | Class Resources  | Homework  |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Lesson 1 (w1:d1)    | Install Git/VS Code | [Class recording](https://generalassembly.zoom.us/rec/share/4HBWG-7sjEo7TIrgZmWQ1QA79fSflmTdrcO7HslIj-jKUGrGks5tfdqSaVILBITx.m_UqORD7EHdvApU_)<br />Passcode: ?906tBVE | N/A |
-| Lesson 2 (w1:d2)    |  |   |  |
+| Lesson 2 (w1:d2)    | HTML Recap &<br />CSS Intro |  [Class recording](https://generalassembly.zoom.us/rec/share/LjuhybTDMzlhzvqPq1D32zVFaVgW-fBVQ55eriOdQm87tIAHtmdcid3VgFaZhoyH.vyY7FXa2RQPTfunL)<br />Passcode: uqZKm+%8  | HOMEWORK 01<br />"Xia Dynasty"|
 | Lesson 3 (w2:d1)    |  |   |  |
 | Lesson 4 (w2:d2)    |   |   |  |
 | Lesson 5 (w3:d1)    |   |   |  |
