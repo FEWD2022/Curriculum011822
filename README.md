@@ -62,8 +62,8 @@ Graduation Requirements
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Lesson 1 (w1:d1)    | Install Git/VS Code | [Class recording](https://generalassembly.zoom.us/rec/share/4HBWG-7sjEo7TIrgZmWQ1QA79fSflmTdrcO7HslIj-jKUGrGks5tfdqSaVILBITx.m_UqORD7EHdvApU_)<br />Passcode: ?906tBVE | N/A |
 | Lesson 2 (w1:d2)    | HTML Recap &<br />CSS Intro |  [Class recording](https://generalassembly.zoom.us/rec/share/LjuhybTDMzlhzvqPq1D32zVFaVgW-fBVQ55eriOdQm87tIAHtmdcid3VgFaZhoyH.vyY7FXa2RQPTfunL)<br />Passcode: uqZKm+%8  | HOMEWORK 01<br />"Xia Dynasty"|
-| Lesson 3 (w2:d1)    | CSS: Box Model | [Class recording](https://generalassembly.zoom.us/rec/share/76ug6IksF5klOJX1QfNE0tWN6qE_7ys7Cgj9s3DEzqQP6LIz3ty3ndDgmSNYL_9t.ct2mCRZaerfyzQZi)<br />Passcode: hK.kAhJ1 | N/A |
-| Lesson 4 (w2:d2)    |   |   |  |
+| Lesson 3 (w2:d1)    | CSS: Box Model | [Class recording](https://generalassembly.zoom.us/rec/share/76ug6IksF5klOJX1QfNE0tWN6qE_7ys7Cgj9s3DEzqQP6LIz3ty3ndDgmSNYL_9t.ct2mCRZaerfyzQZi)<br />Passcode: hK.kAhJ1 | N/A | 
+| Lesson 4 (w2:d2)    | CSS: Flexbox  |[Class recording](https://generalassembly.zoom.us/rec/share/b84438CLi5BcVJSf_z_QjHXZhk_S1XGzOsQ0mhEY8NvZ0Xrd-3AVvlE7HJ8mMTnO.Tbvln3OPabhx8o30)<br />Passcode: #6%mjGh$ | HOMEWORK 02 <br /> "Startup Matchmaker"|
 | Lesson 5 (w3:d1)    |   |   |  |
 | Lesson 6 (w3:d2)    |   |  |  |
 | Lesson 7 (w4:d1)    |    |   |  |
