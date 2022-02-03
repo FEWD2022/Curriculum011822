@@ -46,27 +46,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 
-/*
- * To make the image darker, we have to think about the page in three dimensions
- * We haven't talked about this yet but the position property is very powerful
- * The idea is that we are going to position a dark mask above our image
- * We position this pseudo class before the image so that it sits on top
- * It's given a slightly transparent background using rgba colors
- */
 
-.image-mask-darken {
-  position: relative;
-}
-
-.image-mask-darken:before {
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  background-color: rgba(0,0,0,0.4);
-  content: "";
-}
 
 /* HEADER */
 .airbnb-header {
@@ -112,7 +92,7 @@ h1, h2, h3, h4, h5, h6, p {
 /* HERO */
 .airbnb-main-photo {
   align-items: center;
-  background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/2522641/melbourne.jpg');
+  background-image: url('./melbourne.jpg');
   background-position: center center;
   background-size: cover;
   display: flex;
@@ -120,13 +100,8 @@ h1, h2, h3, h4, h5, h6, p {
   height: 550px;
 }
 
-/*
- * To get the text to appear above the faded background, we need to position it absolutely
- * This pops it out above the background
- */
 .airbnb-intro-content {
   color: var(--white);
-  position: absolute;
   text-align: center;
   width: 400px;
 }
@@ -238,14 +213,10 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 /* I added specific classes for the custom background images for each section */
-.fitzroy  { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/2522641/fitzroy.jpg'); }
-.st-kilda { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/2522641/st-kilda.jpg'); }
-.cbd      { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/2522641/central-business-district.jpg');}
+.fitzroy  { background-image: url('./fitzroy.jpg'); }
+.st-kilda { background-image: url('./st-kilda.jpg'); }
+.cbd      { background-image: url('./central-business-district.jpg');}
 
-/* Again, to achieve darkened image effect, we need to move interior content above the background image */
-.airbnb-indiv-neighborhood-header-content {
-  position: absolute;
-}
 
 .airbnb-indiv-neighborhood-title {
   font-size: 24px;
