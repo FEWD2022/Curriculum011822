@@ -66,7 +66,7 @@ Graduation Requirements
 | Lesson 4 (w2:d2)    | CSS: Flexbox  |[Class recording](https://generalassembly.zoom.us/rec/share/b84438CLi5BcVJSf_z_QjHXZhk_S1XGzOsQ0mhEY8NvZ0Xrd-3AVvlE7HJ8mMTnO.Tbvln3OPabhx8o30)<br />Passcode: #6%mjGh$ | HOMEWORK 02 <br /> "Startup Matchmaker"|
 | Lesson 5 (w3:d1)    | CSS: Grid  |[Class recording](https://generalassembly.zoom.us/rec/share/5hn7k_mUzQtKLjQWJjZ4SzqLc2zuvjSv816J-mgJLumY4M58k680K-VQ1sQ5rk9H.6UDg1avlEamMQNVx)<br />Passcode:&efnzQn3  | N/A|
 | Lesson 6 (w3:d2)    | Layout Lab  |[Class recording](https://generalassembly.zoom.us/rec/share/oNu4-vE922YCza3KffolNiZrMR6FiL0yMby0o6f7Sj7zI2yLDUbDsBMayTGq1wY.DsAYkZWEVj7PQPNE)<br />Passcode: 1DYE*d.# | HOMEWORK 03 <br /> "Trulia" |
-| Lesson 7 (w4:d1)    |    |   |  |
+| Lesson 7 (w4:d1)    | Intro To Javascript  |[Class recording](https://generalassembly.zoom.us/rec/share/taf9Hd2KNif9I1Cumq3_uDsWGHocKZ_-B5QLMSEmNqdc1Ppk-ejhTPt1RMxgN59T.IuyGmQFPtcEASIKX)<br />Passcode: @=5Erd1j | N/A |
 | Lesson 8 (w4:d2)    |  |  |  |
 | Lesson 9 (w5:d1)    |  |   |  |
 | Lesson 10 (w5:d2)   |  |   |  |
