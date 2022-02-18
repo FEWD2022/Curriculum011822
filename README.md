@@ -68,7 +68,7 @@ Graduation Requirements
 | Lesson 6 (w3:d2)    | Layout Lab  |[Class recording](https://generalassembly.zoom.us/rec/share/oNu4-vE922YCza3KffolNiZrMR6FiL0yMby0o6f7Sj7zI2yLDUbDsBMayTGq1wY.DsAYkZWEVj7PQPNE)<br />Passcode: 1DYE*d.# | HOMEWORK 03 <br /> "Trulia" |
 | Lesson 7 (w4:d1)    | Intro To Javascript  |[Class recording](https://generalassembly.zoom.us/rec/share/taf9Hd2KNif9I1Cumq3_uDsWGHocKZ_-B5QLMSEmNqdc1Ppk-ejhTPt1RMxgN59T.IuyGmQFPtcEASIKX)<br />Passcode: @=5Erd1j | N/A |
 | Lesson 8 (w4:d2)    | JS Basics: DOM  |[Class recording](https://generalassembly.zoom.us/rec/share/64bWxenVgwc9Ns4w2rDOT2qdrsZSaSDXCc-zuPwcCpf4vo8qnsxGwn_iVdq5TSE.njaSbDMaeICFlFxG)<br />Passcode: QsE!?8&m | JS 3 level Challenge|
-| Lesson 9 (w5:d1)    | JS Rock Paper Scissor & More Labs | [Class recording](https://generalassembly.zoom.us/rec/share/gTdyw5nI6mzSWGg9KnreoTrgGtL3KeLsp_FNJxLixKLiXHB2IYixlvyz4JO1sdxD.QhVm06WxUT6HczUn?startTime=1644966209000<br />Passcode: 7^ZY=9.j | N/A |
+| Lesson 9 (w5:d1)    | JS Rock Paper Scissor & More Labs | [Class recording](https://generalassembly.zoom.us/rec/share/gTdyw5nI6mzSWGg9KnreoTrgGtL3KeLsp_FNJxLixKLiXHB2IYixlvyz4JO1sdxD.QhVm06WxUT6HczUn?startTime=1644966209000)<br />Passcode: 7^ZY=9.j | N/A |
 | Lesson 10 (w5:d2)   |  |   |  |
 | Lesson 11 (w6:d1)    |  |   |  |
 | Lesson 12 (w6:d2)   |   |   |  |
