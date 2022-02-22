@@ -62,14 +62,14 @@ Graduation Requirements
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Lesson 1 (w1:d1)    | Install Git/VS Code | [Class recording](https://generalassembly.zoom.us/rec/share/4HBWG-7sjEo7TIrgZmWQ1QA79fSflmTdrcO7HslIj-jKUGrGks5tfdqSaVILBITx.m_UqORD7EHdvApU_)<br />Passcode: ?906tBVE | N/A |
 | Lesson 2 (w1:d2)    | HTML Recap &<br />CSS Intro |  [Class recording](https://generalassembly.zoom.us/rec/share/LjuhybTDMzlhzvqPq1D32zVFaVgW-fBVQ55eriOdQm87tIAHtmdcid3VgFaZhoyH.vyY7FXa2RQPTfunL)<br />Passcode: uqZKm+%8  | HOMEWORK 01<br />"Xia Dynasty"|
-| Lesson 3 (w2:d1)    | CSS: Box Model | [Class recording](https://generalassembly.zoom.us/rec/share/76ug6IksF5klOJX1QfNE0tWN6qE_7ys7Cgj9s3DEzqQP6LIz3ty3ndDgmSNYL_9t.ct2mCRZaerfyzQZi)<br />Passcode: hK.kAhJ1 | N/A | 
+| Lesson 3 (w2:d1)    | CSS: Box Model | [Class recording](https://generalassembly.zoom.us/rec/share/76ug6IksF5klOJX1QfNE0tWN6qE_7ys7Cgj9s3DEzqQP6LIz3ty3ndDgmSNYL_9t.ct2mCRZaerfyzQZi)<br />Passcode: hK.kAhJ1 | N/A |
 | Lesson 4 (w2:d2)    | CSS: Flexbox  |[Class recording](https://generalassembly.zoom.us/rec/share/b84438CLi5BcVJSf_z_QjHXZhk_S1XGzOsQ0mhEY8NvZ0Xrd-3AVvlE7HJ8mMTnO.Tbvln3OPabhx8o30)<br />Passcode: #6%mjGh$ | HOMEWORK 02 <br /> "Startup Matchmaker"|
 | Lesson 5 (w3:d1)    | CSS: Grid  |[Class recording](https://generalassembly.zoom.us/rec/share/5hn7k_mUzQtKLjQWJjZ4SzqLc2zuvjSv816J-mgJLumY4M58k680K-VQ1sQ5rk9H.6UDg1avlEamMQNVx)<br />Passcode:&efnzQn3  | N/A|
 | Lesson 6 (w3:d2)    | Layout Lab  |[Class recording](https://generalassembly.zoom.us/rec/share/oNu4-vE922YCza3KffolNiZrMR6FiL0yMby0o6f7Sj7zI2yLDUbDsBMayTGq1wY.DsAYkZWEVj7PQPNE)<br />Passcode: 1DYE*d.# | HOMEWORK 03 <br /> "Trulia" |
 | Lesson 7 (w4:d1)    | Intro To Javascript  |[Class recording](https://generalassembly.zoom.us/rec/share/taf9Hd2KNif9I1Cumq3_uDsWGHocKZ_-B5QLMSEmNqdc1Ppk-ejhTPt1RMxgN59T.IuyGmQFPtcEASIKX)<br />Passcode: @=5Erd1j | N/A |
-| Lesson 8 (w4:d2)    |  |  |  |
-| Lesson 9 (w5:d1)    |  |   |  |
-| Lesson 10 (w5:d2)   |  |   |  |
+| Lesson 8 (w4:d2)    | JS Basics: DOM  |[Class recording](https://generalassembly.zoom.us/rec/share/64bWxenVgwc9Ns4w2rDOT2qdrsZSaSDXCc-zuPwcCpf4vo8qnsxGwn_iVdq5TSE.njaSbDMaeICFlFxG)<br />Passcode: QsE!?8&m | JS 3 level Challenge|
+| Lesson 9 (w5:d1)    | JS Rock Paper Scissor & More Labs | [Class recording](https://generalassembly.zoom.us/rec/share/gTdyw5nI6mzSWGg9KnreoTrgGtL3KeLsp_FNJxLixKLiXHB2IYixlvyz4JO1sdxD.QhVm06WxUT6HczUn?startTime=1644966209000)<br />Passcode: 7^ZY=9.j | N/A |
+| Lesson 10 (w5:d2)   | Responsive Design |   [Class recording](https://generalassembly.zoom.us/rec/share/lwNhp0TDohDu64cqNzoMP_BwH5tmYkJJwvAZXw7ZP4GkXCDg3WV4Ds7sOOAHBnbq.J_Cwnwoc2lvzwVCj?startTime=1645138966000)<br />Passcode: @airqPU1 | Create wireframes for your Project |
 | Lesson 11 (w6:d1)    |  |   |  |
 | Lesson 12 (w6:d2)   |   |   |  |
 | Lesson 13 (w7:d1)  |    |   |  |
