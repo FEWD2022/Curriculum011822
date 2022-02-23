@@ -70,8 +70,8 @@ Graduation Requirements
 | Lesson 8 (w4:d2)    | JS Basics: DOM  |[Class recording](https://generalassembly.zoom.us/rec/share/64bWxenVgwc9Ns4w2rDOT2qdrsZSaSDXCc-zuPwcCpf4vo8qnsxGwn_iVdq5TSE.njaSbDMaeICFlFxG)<br />Passcode: QsE!?8&m | JS 3 level Challenge|
 | Lesson 9 (w5:d1)    | JS Rock Paper Scissor & More Labs | [Class recording](https://generalassembly.zoom.us/rec/share/gTdyw5nI6mzSWGg9KnreoTrgGtL3KeLsp_FNJxLixKLiXHB2IYixlvyz4JO1sdxD.QhVm06WxUT6HczUn?startTime=1644966209000)<br />Passcode: 7^ZY=9.j | N/A |
 | Lesson 10 (w5:d2)   | Responsive Design |   [Class recording](https://generalassembly.zoom.us/rec/share/lwNhp0TDohDu64cqNzoMP_BwH5tmYkJJwvAZXw7ZP4GkXCDg3WV4Ds7sOOAHBnbq.J_Cwnwoc2lvzwVCj?startTime=1645138966000)<br />Passcode: @airqPU1 | Create wireframes for your Project |
-| Lesson 11 (w6:d1)    |  |   |  |
-| Lesson 12 (w6:d2)   |   |   |  |
+| Lesson 11 (w6:d1)     | Responsive Review, Troubleshooting, More Applied Media Queires |   [Class recording](https://generalassembly.zoom.us/rec/share/CqJwMYqImGP8_jG6UTSA7Qq6hu0Me52_37y2ggJ8t7BNErPN2aK7nwOLxPyvZ7Ga.5bRJBFEn97EVZL-7)<br />Passcode: !Y31n*M# | N/A |
+| Lesson 12 (w6:d2)  |   |   |  |
 | Lesson 13 (w7:d1)  |    |   |  |
 | Lesson 14 (w7:d2)  |  |    |    |
 | Lesson 15 (w8:d1)  |   |  |   |
