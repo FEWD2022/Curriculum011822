@@ -73,7 +73,7 @@ Graduation Requirements
 | Lesson 11 (w6:d1)     | Responsive Review, Troubleshooting, More Applied Media Queires |   [Class recording](https://generalassembly.zoom.us/rec/share/CqJwMYqImGP8_jG6UTSA7Qq6hu0Me52_37y2ggJ8t7BNErPN2aK7nwOLxPyvZ7Ga.5bRJBFEn97EVZL-7)<br />Passcode: !Y31n*M# | N/A |
 | Lesson 12 (w6:d2)  | Mid Course Review  |[Class recording](https://generalassembly.zoom.us/rec/share/QbCbDsr2dlC89mmyRMlPNxhllzKWFrfDLsIpxYsD5mXE60x1-yLsxXtHBXcXxlU.4PBYF7Q-5nvl9Awp) <br />Passcode: 7T4hwk++ | Trulia Landing Returns |
 | Lesson 13 (w7:d1)  | Arrays and Loops   |  [Class Recording](https://generalassembly.zoom.us/rec/share/CyhpZ8nwqpsztAj0oY_ZRVCYZPAPLbH3vza5IfTnPSR6LQKbzjQjcZBYLrBz8RO5.LzNL8YHyGzdIu8y1)<br /> Passcode: Qv1ua#D5 | N/A |
-| Lesson 14 (w7:d2)  |  |    |    |
+| Lesson 14 (w7:d2)  |Bootstrap  | [Class Recording](https://generalassembly.zoom.us/rec/share/nW85ry0klvCSB-eby4IC3ik8w1anepLVIsVWpi7yMyUzzjiZMawx_jwOBCz3Z3aV.yvlDL1x4TU8qu3RE)<br /> Passcode: PSJ7#Lbz   |  Continue HW 6/ Work on Final Project  |
 | Lesson 15 (w8:d1)  |   |  |   |
 | Lesson 16 (w8:d1)  |   |   |   |
 | Lesson 17 (w8:d2)  |  |   |  |
