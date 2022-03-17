@@ -63,7 +63,7 @@ document.querySelector("#searchMovies").addEventListener("click", async function
             
             const response = await fetch(`https://peaceful-springs-91970.herokuapp.com/api/create`, requestOptions);
             // shows what has been clicked on
-            clickedOn[i].style.display = "block"
+            //clickedOn[i].style.display = "block"
         })
     }
 })

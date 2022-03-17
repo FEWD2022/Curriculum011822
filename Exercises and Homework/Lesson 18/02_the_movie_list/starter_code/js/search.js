@@ -9,25 +9,9 @@ let inputField = document.querySelector("#seachField")
 
 
 function cardRepeat(title, poster, year, type, element, index){
-    let snippet = `<div class="col-md-4 mb-3"><div class="card text-white card-has-bg click-col result-card" id=${index} style="background-image:url('${poster}');">
-    <img class="card-img d-none" src="${poster}" alt="${title}">
-    <div class="card-img-overlay d-flex flex-column">
-    <div class="card-body">
-       <small class="card-meta mb-2">${year}</small>
-       <h4 class="card-title mt-0 text-white ">${title}</h4>
-     </div>
-     <div class="card-footer">
-      <div class="media">
-    
-    <h3 class="hiddenClick">Clicked</h3>
-    <div class="media-body">
-    <small>${type}</small>
-    </div>
-    </div>
-     </div>
-    </div>
-    </div>
-    </div>`
+
+    // There is a sample of the snipped in the html as a comment
+    let snippet = '';
     element.innerHTML+= snippet
 }
 
@@ -35,37 +19,39 @@ function cardRepeat(title, poster, year, type, element, index){
 
 
 document.querySelector("#searchMovies").addEventListener("click", async function(e){
-    e.preventDefault()
-    results.innerHTML="<div></div>"
-
-    // Insert GET function
-    const response = await fetch(`http://www.omdbapi.com/?apikey=1dd13812&s=${inputField.value}`)
-    data = await response.json();
+    
+    // Stop the default behavior
 
 
-    for (let i = 0; i < data.Search.length; i++) {
-        console.log(data.Search[i])
-        cardRepeat(data.Search[i].Title, data.Search[i].Poster, data.Search[i].Year, data.Search[i].Type, results, data.Search[i].imdbID )
-    }
+    // Make the results an empty Div
+    
 
-    let resultsCard = document.querySelectorAll(".result-card")
-    let clickedOn = document.querySelectorAll(".hiddenClick")
-    for (let i=0; i < resultsCard.length; i++){
-        console.log(resultsCard[i])
-        resultsCard[i].addEventListener("click", async function(e){
-            console.log(this.id)
-            // insert post function 
-            const requestOptions = {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ id: this.id })
-            };
+    // Insert GET function to retrieve a list of movies
+    
+    // Format the results as JSON
+    
+
+
+    // Loop through your data and use the cardRepeat() function to add a new movie to the displayed list.
+
+
+        // Loop through the newly created cards
+
+        
+        // Create a click event for each card
+        
+           
+            // insert post function to submit the ID of the card clicked
+
+                // Create request options for a POST method
             
-            const response = await fetch(`https://peaceful-springs-91970.herokuapp.com/api/create`, requestOptions);
-            // shows what has been clicked on
-            clickedOn[i].style.display = "block"
-        })
-    }
+                // Run the post and wait for the answer
+            
+
+            // shows what has been clicked on by setting the .hiddenClick item to have a display of block
+            
+        
+
 })
 
 
