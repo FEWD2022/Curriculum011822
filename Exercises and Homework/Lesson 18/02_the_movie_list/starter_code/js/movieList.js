@@ -1,9 +1,8 @@
 //custom api
 //https://peaceful-springs-91970.herokuapp.com/api/
-
-
 let data = null
 let results = document.querySelector("#results")
+console.log(results)
 
 function cardRepeat(info, element){
     let snippet = `<div class="col-md-4 mb-3"><div class="card text-white card-has-bg click-col result-card" id=${info.imdbID} style="background-image:url('${info.Poster}');">
@@ -42,7 +41,7 @@ document.addEventListener('DOMContentLoaded',async function(e) {
     const response = await fetch(`https://peaceful-springs-91970.herokuapp.com/api/`)
     data = await response.json();
 console.log(data);
-    for (let i = 0; i < data.length; i++) {
+    for (let i = data.length - 1; i >= 0; i--) {
         console.log(data[i])
         cardRepeat(data[i], results )
     }

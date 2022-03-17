@@ -1,5 +1,5 @@
 // http://www.omdbapi.com/?i=tt3896198&apikey=1dd13812
-console.log("Test")
+
 let data = null
 
 let results = document.querySelector("#results")
