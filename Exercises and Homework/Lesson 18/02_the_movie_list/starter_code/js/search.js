@@ -2,10 +2,12 @@
 
 let data = null
 
+// Target the results
 let results = document.querySelector("#results")
-let submit = document.querySelector("#searchMovies")
 
 let inputField = document.querySelector("#seachField")
+
+
 function cardRepeat(title, poster, year, type, element, index){
     let snippet = `<div class="col-md-4 mb-3"><div class="card text-white card-has-bg click-col result-card" id=${index} style="background-image:url('${poster}');">
     <img class="card-img d-none" src="${poster}" alt="${title}">
@@ -32,7 +34,7 @@ function cardRepeat(title, poster, year, type, element, index){
 
 
 
-submit.addEventListener("click", async function(e){
+document.querySelector("#searchMovies").addEventListener("click", async function(e){
     e.preventDefault()
     results.innerHTML="<div></div>"
 
