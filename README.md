@@ -78,7 +78,7 @@ Graduation Requirements
 | Lesson 16 (w8:d2)  | PetFinder Lab  |[Class Recording](https://generalassembly.zoom.us/rec/share/QNsTRQI_LjFfXcJXOIlHUtwPdRRgBIyKIeTt1-S1f2kVeugCHPVFW8FGcfjAYug0.pKht8usoBo7jkNwj) <br /> Passcode: Np=hinM0   |  Work on Final Project! |
 | Lesson 17 (w9:d1)  |APIs  | [Class Recording](https://generalassembly.zoom.us/rec/share/-zC_ZsvzFxdqj7ikwdpZCqyy_C8CQr985yngkgN5dgffAI9C_sDfTc5P-x_oz2Cj.xs_hX-FjG4FL0vWG)<br /> Passcode: !pY8gAK*  |Continue Final Projects!  |
 | Lesson 18 (w9:d2)  |API Labs ( weather/OMDB)  | [Class Recording](https://generalassembly.zoom.us/rec/share/tKB4JzInmtA5rtlon8gVjf_Bf3Ybdj7rwmST5Iq7Pk6-8AH9caIAzSJwcq6xjTnj.d9N8hBGKd0DGu1-P)<br/> Passcode:*MA88p11   | Continue Final Projects! |
-| Lesson 19 (w10:d1)  | Project Presentations |   |  |
-| Lesson 20 (w10:d2) | Project Presentations |   |  |
+| Lesson 19 (w10:d1)  | Project Lab Time |   |  |
+| Lesson 20 (w10:d2) | Project Presentations | [Class Recording](https://generalassembly.zoom.us/rec/share/fJ_bPqghpHw5-Cc8ASL-nh7z4tZdiKXbglnn7BdkR5RQf6zngRzsV-N5S7Sty6E9.4FHLesCKN0xOynZ-)  <br/> Passcode: $Cy5WjX* | Farewell! |
 | --    |  --   |  --   | -- |
 ---
